@@ -1,48 +1,62 @@
-<<<<<<< HEAD
-# RanPassGen
-Random Password Generator made with Python
-=======
+# Random Password Generator
 
-<h1 align="center">
-  <br>
-  <img src="simple-logo.png" alt="simple-logo" width="200">
-  <br>
-  Random Password Generator
-  <br>
-</h1>
-
-<h4 align="center"> An implementation of the secret library to create secure random generated passwords</h4>
+## Random Password Generator written with secrets. A Python module made to generate cryptographic secure keys
 
 <p align="center">
-  <a href="https://paypal.me/izy225?country">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
+  <img src="mascot.gif" alt="Mascot" height="250px">
 </p>
 
-## How to use it
+ ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
+ ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+ ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) 
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
-```bash
-# Clone this repository
-$ git clone https://github.com/Izy-Stack/Random-Password-Generator
-
-# Go into the repository
-$ cd Random-Password-Generator
-
-# Run the script
-$ python3 Gen.py
-```
-
-
-## You may also like...
-
-- [Leetcode-serving-alarm](https://github.com/Izy-stack/LT-serving-alarm) - The Dojo Alarm
-- [80s-themed-surveillance-web-portal](https://github.com/Izy-stack/80s-themed-surveillance-portal) - A web portal to serve live footage from camera
-
+💻 *There are a lot of them out there but how many of them do it right?*
 
 ---
 
-> GitHub [@Izy-stack](https://github.com/Izy-stack) &nbsp;&middot;&nbsp;
-> Twitter [@isaackm225](https://twitter.com/isaackm225)
+## 📜 Description
 
+This is my random password generator. You can choose different options for password generation (symbols? numbers? length?)  
 
->>>>>>> 153f94e7c1ef1f747b68ace6dd85a0487c63cf47
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/skillz4real/RPG
+cd RPG
+python3 main.py
+```
+---
+
+## 📚 Educational Resources
+
+I am not an expert, I am still learning and here are the resources I use and my profiles:
+
+<!--- [Hack The Box](https://app.hackthebox.com/profile/1776662)-->
+<!--- [Try Hack Me](https://tryhackme.com/p/skillz4real)-->
+<!--- [Leet Code](https://leetcode.com/skillz4real/)-->
+
+---
+
+## 👨‍💻 Youtube
+
+<!-- Youtube -->
+
+---
+
+## 📄 License
+
+RPG is released under the [GNU LICENSE](LICENSE).
+
+---
+
+## 📞 Support
+
+For support, feature requests, or bug reports, please file an issue in the [GitHub issue tracker](https://github.com/skillz4real/RPG/issue).
+
+---

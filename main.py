@@ -47,6 +47,9 @@ def Gen(param: tuple)->string:
 
 if __name__=="__main__":
   while True:
+    parser = argparse.ArgumentParser(
+      prog = 'RPG'
+    )
     print()
     print("Here is your password: {}".format(Gen(ui())))
     print()
